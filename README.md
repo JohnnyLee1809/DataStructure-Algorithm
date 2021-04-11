@@ -1,2 +1,2 @@
 # DataStructure-Algorithm
-Build Data Structure &amp; Algorithm by C++
+Data Structure &amp; Algorithm by C++
